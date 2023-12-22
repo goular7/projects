@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    margin-top: 2em;
+    width: 18em;
+}   
+
+.inputContainer,.outputContainer{
+    height: 15em;
+}
+
+.inputContainer {
+    background-color: aqua;
+}
+
+.outputContainer {
+    background-color: wheat;
+}
